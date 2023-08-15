@@ -16,6 +16,9 @@ int main()
     // printf("a: %d,b: %d, c: %d", a, b, c);
     // c = a && b;
     // printf("a: %d,b: %d, c: %d",a,b,c);
-    c = --a && b;
-    printf("a: %d,b: %d, c: %d",a,b,c);
+    // c = --a && b;
+    // printf("a: %d,b: %d, c: %d",a,b,c);
+    // c = --a && --b;
+    // printf("a: %d,b: %d, c: %d",a,b,c); //010
+    
 }

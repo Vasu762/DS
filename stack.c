@@ -41,8 +41,9 @@ int main()
     // insertEnd(70);
     delete ();
     delete ();
+    delete ();
     display();
    
 
-   
+
 }

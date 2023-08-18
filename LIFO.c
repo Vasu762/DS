@@ -40,8 +40,6 @@ int main()
     insertEnd(60);
     // insertEnd(70);
     delete ();
-    delete ();
-    delete ();
     display();
    
 

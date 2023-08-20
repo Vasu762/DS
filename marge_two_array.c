@@ -33,7 +33,7 @@ int main()
     }
 
     for (int i = 0; i < m; i++)
-    { 
+    {
         c[i + n] = b[i];
     }
 

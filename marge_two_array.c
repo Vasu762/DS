@@ -20,13 +20,13 @@ int main()
         scanf("%d", &a[i]);
     }
 
-    for (int i = 0; i < m; i++)
+    for (int i = 0; i<m; i++)
     {
         printf("Enter value of b[%d]", i);
         scanf("%d", &b[i]);
     }
 
-    for (int i = 0; i < n; i++)
+    for (int i=0;i<n;i++)
 
     {
         c[i] = a[i];

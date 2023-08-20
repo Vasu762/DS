@@ -37,7 +37,7 @@ int main()
     insertEnd(30);
     insertEnd(40);
     insertEnd(50);
-    insertEnd(60);
+    //insertEnd(60);
     // insertEnd(70);
     delete ();
     display();

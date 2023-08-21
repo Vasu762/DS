@@ -18,14 +18,16 @@ int main()
 
     for (int i = 0; i < 1; i++)
     {
-        if (n = a[i])
+        if (n == a[i])
         {
             printf("Your Element is present in array:  \n");
         }
-        else if(n!= a[i])
+        else if (n != a[i])
         {
             printf("Data not fount...........");
         }
-        else{}
+        else
+        {
+        }
     }
 }

@@ -11,7 +11,7 @@ int insertEnd(int val)
         a[top] = val;
     }
 }
-int display()
+int displayEnd()
 {
     if (top < 0)
         printf("Array is empty...\n");
@@ -21,7 +21,7 @@ int display()
             printf("%d", a[i]);
     }
 }
-int delete()
+int deleteEnd()
 {
     if (top < 0)
         printf("array is empty......\n");
@@ -39,8 +39,8 @@ int main()
     insertEnd(50);
     //insertEnd(60);
     // insertEnd(70);
-    delete ();
-    display();
+    deleteEnd();
+    displayEnd();
    
 
 

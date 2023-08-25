@@ -29,7 +29,7 @@ int find(int a[])
 int main()
 {
     int z;
-    z = find(a);       
+    z = find(a);
     if (z >= 0)
     {
         printf("number is found");

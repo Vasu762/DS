@@ -40,5 +40,5 @@ int main()
     for (int i = 0; i < m + n; i++)
     {
         printf(" %d \t", c[i]);
-    }
+    }   
 }

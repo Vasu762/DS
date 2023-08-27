@@ -8,7 +8,7 @@ int insertFirst(int val)
     else
     {
         top++;
-        for (int i = top; i >= 0; i--)
+        for (int i = top; i >= 0; i--)      
         {
             a[i] = a[i - 1];
         }
